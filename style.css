@@ -642,8 +642,8 @@ h1 {
 }
 
 #rm2 {
-  background-image: url("./assets/readMore/Group 30.png");
-  filter: drop-shadow(5px 5px 10px black);
+  /* background-image: url("./assets/readMore/Rectangle\ 62.png"); */
+  /*filter: drop-shadow(5px 5px 10px black);*/
   background-size: cover;
   width: 557px;
   height: 477px;
@@ -654,9 +654,10 @@ h1 {
 }
 
 #rm2 p {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 400;
-  color: white;
+  color: black;
+  margin-bottom: 1px;
 }
 
 #rm2 h1 {
@@ -666,8 +667,8 @@ h1 {
 }
 
 #rm3 {
-  background-image: url("./assets/readMore/Group\ 31.png");
-  filter: drop-shadow(5px 5px 10px black);
+  /* background-image: url("./assets/readMore/Rectangle\ 62.png"); */
+  /*filter: drop-shadow(5px 5px 10px black);*/
   background-size: cover;
   width: 557px;
   height: 477px;
@@ -678,9 +679,11 @@ h1 {
 }
 
 #rm3 p {
-  font-size: 16px;
+  
+  font-size: 20px;
   font-weight: 400;
-  color: white;
+  color: black;
+  margin-bottom: 1px;
 }
 
 #rm3 h1 {
@@ -690,11 +693,12 @@ h1 {
 }
 
 .rmc {
-  width: 320px;
+  width: 500px;
   height: 103px;
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
   background: linear-gradient(
     0deg,
     rgba(225, 225, 225, 0.6),
